@@ -1,0 +1,8 @@
+.featured-items-top{
+    display: flex;
+    justify-content: space-between;
+}
+.featured-items-bottom{
+    display: flex;
+    flex-wrap: wrap;
+}

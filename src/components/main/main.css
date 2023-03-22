@@ -1,0 +1,22 @@
+.start{
+    display: flex;
+    justify-content: space-between;
+}
+.left-side, .below{
+    display: flex;
+}
+.gradient{
+    border-radius: 5px;
+    height: 25vh;
+    width: 100%;
+}
+.content{
+    margin-top: -10%;
+}
+.not-live{
+    color: #b54708;
+    background: #fffaeb;
+    padding: 0.3em;
+    height: 2.5vh;
+    margin: 5% 5% 0 0;
+}
