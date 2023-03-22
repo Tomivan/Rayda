@@ -15,7 +15,7 @@ const FeaturedItems = () => {
         <Box sx={{ p: 1, ml: 5, mt:2, backgroundColor: '#ffffff', width: 1250, borderRadius: '5px' }}>
             <div className="featured-items-top">
                 <p>Featured Items</p>
-                <Button sx={{border: 1, borderColor: '#d0d5dd', borderRadius: '5px', height: 7, p: 1.5, color: 'black', mt: 2}}>
+                <Button sx={{border: 1, borderColor: '#d0d5dd', borderRadius: '5px', height: 7, p: 1.5, color: 'black', mt: 1.5}}>
                     View Action
                 </Button>
             </div>

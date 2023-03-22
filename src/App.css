@@ -4,3 +4,33 @@ body{
     box-sizing: border-box;
     background: #fcfcfd;
 }
+
+
+@media screen and (max-width: 768px) {
+    .css-137kph5{
+        width: 88% !important;
+        margin-left: 2% !important;
+    }
+    .gradient{
+        height: 15vh !important;
+    }
+    .content{
+        height: 12vh;
+    }
+    .css-46bh2p-MuiCardContent-root{
+        width: 100%;
+    }
+    .start{
+        flex-direction: column;
+    }
+    .css-c8cger{
+        width: 88% !important;
+        margin-left: 2% !important;
+    }
+} 
+
+@media screen and (min-width: 7689px) and (max-width: 900px) {
+    .content{
+        margin-top: -20% !important;
+    }
+}
